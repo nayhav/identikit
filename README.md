@@ -1,4 +1,4 @@
-#  Syntheposer
+#  Identikit
 
 **Synthetic identity attacks on music recommender systems**
 
@@ -6,7 +6,7 @@
 
 ## Overview
 
-Music recommender systems infer a user’s musical *identity* from historical listening behavior and use this inferred identity to personalize recommendations. **Syntheposer** is a (for now, casual) attempt how robust that inferred identity really is.
+Music recommender systems infer a user’s musical *identity* from historical listening behavior and use this inferred identity to personalize recommendations. **Identikit** is a (for now, casual) attempt how robust that inferred identity really is.
 
 > **Can a legitimate user, using only valid listening behavior, deliberately manipulate how a recommender system perceives their taste?**
 
@@ -23,7 +23,7 @@ Recommender systems implicitly assume:
 
 > *Observed behavior ≈ genuine preference*
 
-Syntheposer challenges this assumption by demonstrating that **algorithmic identity can be constructed, shifted, and manipulated** through carefully chosen listening patterns, without violating any rules. The result is a phenomenon we refer to as **synthetic taste**: an identity that looks authentic to the system, regardless of genuine preference.
+Identikit challenges this assumption by demonstrating that **algorithmic identity can be constructed, shifted, and manipulated** through carefully chosen listening patterns, without violating any rules. The result is a phenomenon we refer to as **synthetic taste**: an identity that looks authentic to the system, regardless of genuine preference.
 
 ---
 
